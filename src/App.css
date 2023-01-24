@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Buda&family=Cinzel:wght@400;500;600;700;800;900&family=EB+Garamond&family=Julee&family=Ms+Madi&family=Poiret+One&display=swap');
+*{
+  /* font-family: "Cinzel", serif; */
+}
+.font-2 {
+  font-size: 24px;
+}
+.getStarted_text{
+  font-size: 13px;
+  right: -80px;
+}
+
+.header_burger{
+display: none;
+}
+@media screen and (max-width: 600px) {
+  .header_links {
+    display: none;
+  }
+  .header_burger{
+    display: inline !important;
+  }
+.employeeDeetails_button_media{
+margin-left: 5px;
+}
+}

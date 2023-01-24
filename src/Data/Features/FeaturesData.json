@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "tag":"our story",
+        "img":"https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "title":"WHAT IS AN EMPLOYEE MANAGEMENT SYSTEM ?",
+        "desc":"An employee management system is a core part of HR. This article will go over the best tools to manage employee records, work history, and other important employee data.",
+        "bool1":"Efficiency And Better Accuracy",
+        "bool2":"Fewer Compliance Risks",
+        "bool3":"New Features"
+    },
+    {
+        "id":2,
+        "tag":"Importance !",
+        "img":"https://images.unsplash.com/photo-1573164574511-73c773193279?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+        "title":"WHY IS EMS NECESSARY FOR YOUR BUSINESS?",
+        "desc":"Picture a situation in which any piece of critical data related to the most valuable assets, i.e. workers, is available through a centralized database on a single dashboard and is usable 24 x 7 at lightning speed. This is basically what a successful employee management system provides – a centralized hub for all your vital payroll data and HR.",
+        "bool1":"Business Planning",
+        "bool2":"Financial Planning",
+        "bool3":"Market Analysis"
+    },
+    {
+        "id":3,
+        "tag":"Befefits !",
+        "img":"https://images.unsplash.com/photo-1435575653489-b0873ec954e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "title":"BENEFITS OF THE EMPLOYEE MANAGEMENT SYSTEM ",
+        "desc":"If you operate a startup of under a dozen workers or are in control of a thousand-strong global multinational corporation, relying on manual systems to track and handle the staff will turn rapidly into an administrative nightmare. Also, if you opt to track the information and data manually, there are high chances of human errors as well as to some compliance risks.",
+        "bool1":"Boosted Profitability",
+        "bool2":"Higher Productivity",
+        "bool3":"Online Works"
+    }
+
+
+]

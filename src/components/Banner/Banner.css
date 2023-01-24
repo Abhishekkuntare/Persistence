@@ -1,0 +1,36 @@
+.banner{
+    background: url("https://images.unsplash.com/photo-1487958449943-2429e8be8625?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    background-repeat: repeat;
+    height: 100vh;
+    font-family: "Cinzel", serif;
+    font-weight: 600;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.banner_font{
+    font-family: 'Ms Madi', cursive;
+}
+
+@media screen and (max-width: 500px) {
+   .banner_title{
+    font-size: 50px;
+    margin-left: 10px;
+   }
+   .banner_font{
+    margin-left: 10px;
+   }
+  }
+  
+@media screen and (max-width: 373px) {
+   .banner_title{
+    font-size: 40px;
+    margin-left: 10px;
+   }
+   .banner_font{
+    margin-left: 10px;
+   }
+  }
+  
